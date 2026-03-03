@@ -22,6 +22,8 @@
 🔹 **Stock Trend Analysis System**  
 Developed a system that processes historical data stored in MongoDB and performs structured data handling, analysis, and visualization using Python.
 
+🔗 [Stock Trend prediction repo](https://github.com/Mokshakulal/Mini-Project-Faiml)
+
 🔹 **Movie Ticket Booking System**  
 A Java-based console application that allows users to book movie tickets with seat selection, multiple show timings, bulk booking discounts, and different payment options.  
 Built using core Java concepts such as arrays, loops, conditionals, and user input handling.
