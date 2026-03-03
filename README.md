@@ -38,3 +38,9 @@ Built a multithreaded client-server chat application using Java sockets and GUI 
 ## 🎯 Career Goal
 
 To become a skilled Software Engineer with strong problem-solving abilities and strong programming fundamentals.
+
+---
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/moksha-kulal-0b2272333)
