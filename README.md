@@ -22,8 +22,11 @@
 🔹 **Stock Trend Analysis System**  
 Developed a system that processes historical data stored in MongoDB and performs structured data handling, analysis, and visualization using Python.
 
-🔹 **Java Chat Socket Application**  
-Built a multithreaded client-server chat application using Java sockets and GUI to enable real-time communication.
+🔹 **Movie Ticket Booking System**  
+A Java-based console application that allows users to book movie tickets with seat selection, multiple show timings, bulk booking discounts, and different payment options.  
+Built using core Java concepts such as arrays, loops, conditionals, and user input handling.
+
+🔗 [Movie Ticket Repo](https://github.com/Mokshakulal/MovieTicketBookingSystem)
 
 ---
 
@@ -38,7 +41,6 @@ Built a multithreaded client-server chat application using Java sockets and GUI 
 ## 🎯 Career Goal
 
 To become a skilled Software Engineer with strong problem-solving abilities and strong programming fundamentals.
-
 ---
 
 ## 🔗 Connect With Me
