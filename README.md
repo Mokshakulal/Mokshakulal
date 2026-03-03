@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, I'm Moksha 👋
 
-<!--
-**Mokshakulal/Mokshakulal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a Second-Year BTech Computer Science and Engineering student passionate about building strong fundamentals in programming and software development.
 
-Here are some ideas to get you started:
+💻 I primarily work with C, Python, and Java, focusing on Data Structures, algorithms, and problem-solving. I enjoy implementing efficient logic and understanding core computer science concepts in depth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 I am interested in Full Stack Development and continuously improving my knowledge of web technologies and backend systems.
+
+---
+
+## 🛠 Technical Skills
+
+- Programming Languages: C, Python, Java  
+- Core Concepts: Data Structures, Algorithms, Problem Solving  
+- Database: MongoDB  
+- Tools & Technologies: Git, GitHub  
+
+---
+
+## 🚀 Projects
+
+🔹 **Stock Trend Analysis System**  
+Developed a system that processes historical data stored in MongoDB and performs structured data handling, analysis, and visualization using Python.
+
+🔹 **Java Chat Socket Application**  
+Built a multithreaded client-server chat application using Java sockets and GUI to enable real-time communication.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Data Structures & Algorithms  
+- Backend Development Concepts  
+- Full Stack Web Development  
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Software Engineer with strong problem-solving abilities and strong programming fundamentals.
